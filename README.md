@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Ankit Kumar
 
-<!--
-**ankitkumar-aiml-2006/ankitkumar-aiml-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Dr. Akhilesh Das Gupta Institute of Professional Studies (GGSIPU), Delhi
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Software Development, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning
+- Python
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+- SQL
+- Linux
+- Machine Learning
+
+---
+
+## 🎯 Goals
+- Build impactful AI & ML projects
+- Contribute to Open Source
+- Secure internships in Software Development & AI
+- Become a skilled AI Engineer
+
+---
+
+## 🛠️ Technologies
+- Python
+- C++
+- Git
+- GitHub
+- SQL
+- Linux
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn: https://linkedin.com/in/ankitkumar-aiml
+
+⭐ Thanks for visiting my profile!
